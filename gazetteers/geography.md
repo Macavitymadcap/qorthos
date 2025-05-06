@@ -1,11 +1,11 @@
 # A Short Introduction To Geography
 
-> Written with focus on the History, Lands and Politics of the Confederacy, but
-> also with reference to the other Cultures and Places of Qor’thos.
-
+> _Written with focus on the History, Lands and Politics of the Confederacy, but
+> also with reference to the other Cultures and Places of Qor’thos._
+>
 > By Alathea Damrion, M.A. Kathrula, First Reader at St. Bamber’s, Temple of
 > Orthalius, Waverest
-
+>
 > Published by Kathrula University Press, 1430AD
 
 ## Qor’thos

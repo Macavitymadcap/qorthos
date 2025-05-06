@@ -38,4 +38,7 @@ A collection of lore guides to the Qor'thos campaign setting, divided into:
 - 1209AD: Lumeros, the first Avatar of Lorothai, manifests in Lepia ushering in
   the Age of Avatars and the resurgance of the church of Light across the Scar.
 - 6,489AD: The Confederacy is formed to fight the illithlich Zilrikax.
+- 7,417AD: The Continent of Junderoth appears on Qor'thos. From where it came
+  even the gods do not know, but soon enough the great powers of the world look
+  upon its mineral and magicakal riches with greed and lust.
 - 9,983AD: Current age

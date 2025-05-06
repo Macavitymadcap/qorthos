@@ -1,11 +1,11 @@
 # A SHORT INTRODUCTION TO THEOLOGY
 
-> Being an Outline of the Major Deities of Qor’thos, with Particular Attention
-> paid to the Church of Light as practiced within the Confederacy.
-
+> _Being an Outline of the Major Deities of Qor’thos, with Particular Attention
+> paid to the Church of Light as practiced within the Confederacy._
+>
 > By Father Cadias Sarongal, P.h. Div. Kathrula, High Priest of the Cathedral of
 > Light, Lepia
-
+>
 > Published by Kathrula University Press, 1432AD
 
 ## Origin of the Deities

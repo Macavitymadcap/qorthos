@@ -15,6 +15,13 @@
     font-weight: 600;
 }
 
+.colour-palette {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    grid-template-rows: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+}
+
 .color-swatch {
     display: inline-block;
     width: 100px;
@@ -33,10 +40,6 @@
     background-color: var(--text-color);
 }
 
-.heading-swatch {
-    background-color: var(--heading-color);
-}
-
 .link-swatch {
     background-color: var(--link-color);
 }
@@ -46,9 +49,17 @@
 }
 
 .quote-swatch {
-    background-color: var(--quote-bg);
+    background-color: var(--bg-color);
 }
 
 .table-swatch {
-    background-color: var(--table-stripe);
+    background-color: var(--bg-color);
+}
+
+.heading-swatch {
+    background-color: var(--heading-color);
+}
+
+.highlight-swatch {
+    background-color: var(--bg-color);
 }

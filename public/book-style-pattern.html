@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <main>
         <h1>Book Style Pattern Library</h1>
         <div class="subtitle">
             A CSS theme for markdown-derived HTML
@@ -23,31 +23,35 @@
 
         <!-- Introduction -->
         <div class="pattern-section">
-            <p>This pattern library showcases a CSS theme designed to give HTML content derived from markdown the visual
+            <p>
+                This pattern library showcases a CSS theme designed to give HTML content derived from markdown the visual
                 appearance of a traditional printed book. It features carefully selected typography, spacing, and color
-                palettes that mimic the aesthetics of print publishing.</p>
-            <p>The theme includes a light mode resembling aged paper that provides an elegant reading experience
-                reminiscent of traditional books.</p>
+                palettes that mimic the aesthetics of print publishing.
+            </p>
+
+            <p>
+                The theme includes a light mode resembling aged paper that provides an elegant reading experience
+                reminiscent of traditional books.
+            </p>
         </div>
 
         <!-- Color Palette -->
         <div class="pattern-section">
-            <h2>Color Palette</h2>
-            <div class="pattern-title">Main Colors</div>
+            <h2>Colour Palette</h2>
+            <div class="pattern-title">Main Colours</div>
 
-            <div>
-                <div class="color-swatch bg-swatch" title="Background Color"></div>
-                <div class="color-swatch text-swatch" title="Text Color"></div>
-                <div class="color-swatch heading-swatch" title="Heading Color"></div>
+            <div class="colour-palette">
+                <div class="color-swatch bg-swatch" title="Background Colour"></div>
+                <div class="color-swatch text-swatch" title="Text Colour"></div>
                 <div class="color-swatch link-swatch" title="Link Color"></div>
-                <div class="color-swatch border-swatch" title="Border Color"></div>
-                <div class="color-swatch quote-swatch" title="Quote Background"></div>
-                <div class="color-swatch table-swatch" title="Table Stripe"></div>
+                <div class="color-swatch border-swatch" title="Border Colour"></div>
             </div>
 
-            <p style="text-indent: 0; margin-top: 1em;">This carefully selected color palette is designed to mimic
+            <p>
+                This carefully selected colour palette is designed to mimic
                 traditional book printing while ensuring good readability. The light mode features soft, warm paper
-                tones for a comfortable reading experience.</p>
+                tones for a comfortable reading experience.
+            </p>
         </div>
 
         <!-- Typography -->
@@ -55,17 +59,17 @@
             <h2>Typography</h2>
             <div class="pattern-title">Font Families</div>
 
-            <p style="font-family: 'Libre Baskerville', Georgia, serif; text-indent: 0;">
+            <p style="font-family: 'Libre Baskerville', Georgia, serif;">
                 <strong>Body Text:</strong> Libre Baskerville - A classic serif typeface perfect for long-form reading
                 with excellent readability.
             </p>
 
-            <p style="font-family: 'Playfair Display', Georgia, serif; text-indent: 0;">
+            <p style="font-family: 'Playfair Display', Georgia, serif;">
                 <strong>Headings:</strong> Playfair Display - An elegant display serif with beautiful contrast that
                 provides visual hierarchy.
             </p>
 
-            <p style="font-family: 'Source Sans 3', sans-serif; text-indent: 0;">
+            <p style="font-family: 'Source Sans 3', sans-serif;">
                 <strong>Technical:</strong> Source Sans 3 - A clean sans-serif for technical content.
             </p>
         </div>
@@ -106,7 +110,8 @@
             </p>
 
             <p>
-                For highlighted text, you can use the <span class="highlight">highlight class</span> to draw attention to
+                For highlighted text, you can use the <span class="highlight">highlight class</span> to draw attention
+                to
                 specific content in a subtle way that matches the overall design aesthetic.
             </p>
         </div>
@@ -115,8 +120,10 @@
         <div class="pattern-section">
             <h2>Links</h2>
 
-            <p>Links are styled to be recognizable but not distracting. They use a subtle color
-                distinction with an elegant hover effect:</p>
+            <p>
+                Links are styled to be recognizable but not distracting. They use a subtle color
+                distinction with an elegant hover effect:
+            </p>
 
             <p>
                 <a href="#">Standard link</a> - Hover over this link to see the hover effect.
@@ -130,8 +137,10 @@
             <div class="pattern-title">Unordered List</div>
             <ul>
                 <li>First item in an unordered list</li>
-                <li>Second item with some additional text to show how wrapping works with list items that contain a bit
-                    more content</li>
+                <li>
+                    Second item with some additional text to show how wrapping works with list items that contain a bit
+                    more content
+                </li>
                 <li>Third item with a <a href="#">link</a> included</li>
                 <li>Fourth item with formatting</li>
             </ul>
@@ -151,7 +160,8 @@
 
             <blockquote>
                 <p>The blockquote element is styled to resemble pull quotes in printed books. This helps important
-                    quotations or excerpts stand out from the main text while maintaining the book-like aesthetic.</p>
+                    quotations or excerpts stand out from the main text while maintaining the book-like aesthetic.
+                </p>
                 <p>Multiple paragraphs within a blockquote maintain consistent styling throughout.</p>
             </blockquote>
         </div>
@@ -200,7 +210,7 @@
             <p>Images are centered with reasonable margins:</p>
 
             <figure>
-                <img src="/assets/placeholder.png" alt="Placeholder image">
+                <img src="./assets/placeholder.png" alt="Placeholder image">
                 <figcaption>Figure 1: Example image with caption</figcaption>
             </figure>
         </div>
@@ -228,17 +238,23 @@
             <p>Used to denote chapter numbers in a book-like format.</p>
 
             <div class="pattern-title">Footnote</div>
-            <p>References can be marked with superscript<sup>1</sup>.</p>
+
+            <p>
+                References can be marked with superscript<sup>1</sup>.
+            </p>
+
             <div class="footnote">
                 <sup>1</sup> This is an example of a footnote at the bottom of a page.
             </div>
 
             <div class="pattern-title">Sidenote</div>
-            <p>This paragraph has a sidenote.<span class="sidenote">This is a sidenote that
+            <p>
+                This paragraph has a sidenote.<span class="sidenote">This is a sidenote that
                     appears in the margin on larger screens, similar to annotations in printed books.</span> Sidenotes
-                appear in the margin on desktop and as inline notes on mobile.</p>
+                appear in the margin on desktop and as inline notes on mobile.
+            </p>
         </div>
-    </div>
+    </main>
 </body>
 
 </html>

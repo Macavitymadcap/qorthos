@@ -1,0 +1,54 @@
+/* Pattern Library Specific */
+.pattern-section {
+    margin-bottom: 3em;
+    padding-bottom: 2em;
+    border-bottom: 1px dashed var(--border-color);
+}
+
+.pattern-title {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--border-color);
+    margin-bottom: 1em;
+    font-weight: 600;
+}
+
+.color-swatch {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 3px;
+}
+
+.bg-swatch {
+    background-color: var(--bg-color);
+}
+
+.text-swatch {
+    background-color: var(--text-color);
+}
+
+.heading-swatch {
+    background-color: var(--heading-color);
+}
+
+.link-swatch {
+    background-color: var(--link-color);
+}
+
+.border-swatch {
+    background-color: var(--border-color);
+}
+
+.quote-swatch {
+    background-color: var(--quote-bg);
+}
+
+.table-swatch {
+    background-color: var(--table-stripe);
+}

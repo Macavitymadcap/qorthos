@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Style Pattern Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/pattern-library.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Book Style Pattern Library</h1>
+        <div class="subtitle">
+            A CSS theme for markdown-derived HTML
+        </div>
+
+        <!-- Introduction -->
+        <div class="pattern-section">
+            <p>This pattern library showcases a CSS theme designed to give HTML content derived from markdown the visual
+                appearance of a traditional printed book. It features carefully selected typography, spacing, and color
+                palettes that mimic the aesthetics of print publishing.</p>
+            <p>The theme includes a light mode resembling aged paper that provides an elegant reading experience
+                reminiscent of traditional books.</p>
+        </div>
+
+        <!-- Color Palette -->
+        <div class="pattern-section">
+            <h2>Color Palette</h2>
+            <div class="pattern-title">Main Colors</div>
+
+            <div>
+                <div class="color-swatch bg-swatch" title="Background Color"></div>
+                <div class="color-swatch text-swatch" title="Text Color"></div>
+                <div class="color-swatch heading-swatch" title="Heading Color"></div>
+                <div class="color-swatch link-swatch" title="Link Color"></div>
+                <div class="color-swatch border-swatch" title="Border Color"></div>
+                <div class="color-swatch quote-swatch" title="Quote Background"></div>
+                <div class="color-swatch table-swatch" title="Table Stripe"></div>
+            </div>
+
+            <p style="text-indent: 0; margin-top: 1em;">This carefully selected color palette is designed to mimic
+                traditional book printing while ensuring good readability. The light mode features soft, warm paper
+                tones for a comfortable reading experience.</p>
+        </div>
+
+        <!-- Typography -->
+        <div class="pattern-section">
+            <h2>Typography</h2>
+            <div class="pattern-title">Font Families</div>
+
+            <p style="font-family: 'Libre Baskerville', Georgia, serif; text-indent: 0;">
+                <strong>Body Text:</strong> Libre Baskerville - A classic serif typeface perfect for long-form reading
+                with excellent readability.
+            </p>
+
+            <p style="font-family: 'Playfair Display', Georgia, serif; text-indent: 0;">
+                <strong>Headings:</strong> Playfair Display - An elegant display serif with beautiful contrast that
+                provides visual hierarchy.
+            </p>
+
+            <p style="font-family: 'Source Sans 3', sans-serif; text-indent: 0;">
+                <strong>Technical:</strong> Source Sans 3 - A clean sans-serif for technical content.
+            </p>
+        </div>
+
+        <!-- Headings -->
+        <div class="pattern-section" id="headings">
+            <h2>Headings</h2>
+
+            <div class="chapter-number">Chapter I</div>
+            <h1>Primary Heading (H1)</h1>
+
+            <h2>Secondary Heading (H2)</h2>
+
+            <h3>Tertiary Heading (H3)</h3>
+
+            <h4>Fourth Level Heading (H4)</h4>
+
+            <h5>Fifth Level Heading (H5)</h5>
+
+            <h6>Sixth Level Heading (H6)</h6>
+        </div>
+
+        <!-- Text Elements -->
+        <div class="pattern-section">
+            <h2>Text Elements</h2>
+
+            <p>
+                This paragraph demonstrates the standard text styling, with careful attention to line height, letter
+                spacing, and overall readability. The first paragraph after a heading includes a drop cap to enhance
+                the classic book aesthetic. Notice how the text is justified with hyphenation enabled to create
+                clean text edges similar to printed books.
+            </p>
+
+            <p>
+                This paragraph includes <strong>bold text</strong> for emphasis, which can help highlight important
+                concepts or terms within your content. It also includes <em>italic text</em> that can be used for
+                titles, foreign terms, or other standard italic use cases.
+            </p>
+
+            <p>
+                For highlighted text, you can use the <span class="highlight">highlight class</span> to draw attention to
+                specific content in a subtle way that matches the overall design aesthetic.
+            </p>
+        </div>
+
+        <!-- Links -->
+        <div class="pattern-section">
+            <h2>Links</h2>
+
+            <p>Links are styled to be recognizable but not distracting. They use a subtle color
+                distinction with an elegant hover effect:</p>
+
+            <p>
+                <a href="#">Standard link</a> - Hover over this link to see the hover effect.
+            </p>
+        </div>
+
+        <!-- Lists -->
+        <div class="pattern-section">
+            <h2>Lists</h2>
+
+            <div class="pattern-title">Unordered List</div>
+            <ul>
+                <li>First item in an unordered list</li>
+                <li>Second item with some additional text to show how wrapping works with list items that contain a bit
+                    more content</li>
+                <li>Third item with a <a href="#">link</a> included</li>
+                <li>Fourth item with formatting</li>
+            </ul>
+
+            <div class="pattern-title">Ordered List</div>
+            <ol>
+                <li>Copy the CSS styles into your project's stylesheet</li>
+                <li>Add the Google Fonts link to your HTML head section</li>
+                <li>Use the semantic HTML elements as demonstrated in this pattern library</li>
+                <li>Enjoy your beautiful book-styled content</li>
+            </ol>
+        </div>
+
+        <!-- Blockquotes -->
+        <div class="pattern-section">
+            <h2>Blockquotes</h2>
+
+            <blockquote>
+                <p>The blockquote element is styled to resemble pull quotes in printed books. This helps important
+                    quotations or excerpts stand out from the main text while maintaining the book-like aesthetic.</p>
+                <p>Multiple paragraphs within a blockquote maintain consistent styling throughout.</p>
+            </blockquote>
+        </div>
+
+        <!-- Tables -->
+        <div class="pattern-section">
+            <h2>Tables</h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Element</th>
+                        <th>Font Family</th>
+                        <th>Font Size</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Body Text</td>
+                        <td>Libre Baskerville</td>
+                        <td>16px</td>
+                    </tr>
+                    <tr>
+                        <td>H1 Heading</td>
+                        <td>Playfair Display</td>
+                        <td>2.5em</td>
+                    </tr>
+                    <tr>
+                        <td>H2 Heading</td>
+                        <td>Playfair Display</td>
+                        <td>1.8em</td>
+                    </tr>
+                    <tr>
+                        <td>Technical Text</td>
+                        <td>Source Sans 3</td>
+                        <td>0.9em</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Images -->
+        <div class="pattern-section">
+            <h2>Images</h2>
+
+            <p>Images are centered with reasonable margins:</p>
+
+            <figure>
+                <img src="/assets/placeholder.png" alt="Placeholder image">
+                <figcaption>Figure 1: Example image with caption</figcaption>
+            </figure>
+        </div>
+
+        <!-- Horizontal Rule -->
+        <div class="pattern-section">
+            <h2>Horizontal Rule</h2>
+
+            <p>
+                The horizontal rule is styled with a decorative element to mimic section breaks
+                in printed books:
+            </p>
+
+            <hr>
+
+            <p>This can be used to indicate major section changes within a chapter.</p>
+        </div>
+
+        <!-- Special Elements -->
+        <div class="pattern-section">
+            <h2>Special Elements</h2>
+
+            <div class="pattern-title">Chapter Number</div>
+            <div class="chapter-number">Chapter IV</div>
+            <p>Used to denote chapter numbers in a book-like format.</p>
+
+            <div class="pattern-title">Footnote</div>
+            <p>References can be marked with superscript<sup>1</sup>.</p>
+            <div class="footnote">
+                <sup>1</sup> This is an example of a footnote at the bottom of a page.
+            </div>
+
+            <div class="pattern-title">Sidenote</div>
+            <p>This paragraph has a sidenote.<span class="sidenote">This is a sidenote that
+                    appears in the margin on larger screens, similar to annotations in printed books.</span> Sidenotes
+                appear in the margin on desktop and as inline notes on mobile.</p>
+        </div>
+    </div>
+</body>
+
+</html>

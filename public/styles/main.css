@@ -20,21 +20,22 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-}
-
-main {
-    flex: 1;
-    max-width: 800px;
-    padding: 3rem;
-    background-color: var(--bg-color);
-    box-shadow: 0 4px 12px var(--shadow-color);
-    border-radius: 2px;
-    position: relative;
     background-image: url("../assets/joao-vitor-duarte-k4Lt0CjUnb0-unsplash.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+}
+
+main {
+    flex: 1;
+    padding: 3rem;
+    background-color: var(--bg-color);
+    box-shadow: 0 4px 12px var(--shadow-color);
+    border-radius: 2px;
+    position: relative;
+    flex-direction: column;
+    background-color: transparent;
 }
 
 /* Typography */
@@ -59,6 +60,14 @@ h1 {
     font-weight: 900;
     position: relative;
     padding-bottom: 0.5em;
+}
+
+.site-title {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--border-color);
+    margin-bottom: 1em;
+    font-weight: 600;
 }
 
 h1::after {
@@ -136,11 +145,44 @@ ul,
 ol {
     margin-bottom: 1.5em;
     padding-left: 2em;
+    text-align: left;
+    margin-left: 1em;
 }
 
 li {
     margin-bottom: 0.5em;
 }
+
+menu {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin: 0;
+
+    li {
+        list-style: none;
+    }
+
+    details {
+        margin: 0;
+        padding: 0;
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    summary {
+        color: var(--link-color)
+    }
+
+    summary:hover, 
+    li:hover {
+        cursor: pointer;
+    }
+}
+
 
 /* Blockquotes */
 blockquote {
@@ -282,9 +324,18 @@ hr::before {
     padding: 0.2em 0.4em;
 }
 
+.frontispiece {
+    text-align: center;
+    margin: 2em 0;
+}
+
 /* Responsive adjustments */
 @media (max-width: 900px) {
-    .container {
+    menu {
+        flex-direction: column;
+    }
+
+    main {
         padding: 1.5rem;
         margin:1rem;
     }

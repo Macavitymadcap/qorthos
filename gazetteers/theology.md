@@ -1,12 +1,12 @@
 # A SHORT INTRODUCTION TO THEOLOGY
 
-> _Being an Outline of the Major Deities of Qor’thos, with Particular Attention
-> paid to the Church of Light as practiced within the Confederacy._
->
-> By Father Cadias Sarongal, P.h. Div. Kathrula, High Priest of the Cathedral of
-> Light, Lepia
->
-> Published by Kathrula University Press, 1432AD
+*Being an Outline of the Major Deities of Qor’thos, with Particular Attention
+paid to the Church of Light as practiced within the Confederacy.*
+
+*By Father Cadias Sarongal, P.h. Div. Kathrula, High Priest of the Cathedral of
+Light, Lepia*
+
+*Published by Kathrula University Press, 1432AD*
 
 ## Origin of the Deities
 
@@ -165,30 +165,29 @@ them lest their avatars lead you astray from the Light. So read on, and may you
 be illuminated.
 
 ## The Major Avar
-
-| Gods            | Name                | Title               | Domains         | Alignment |
-| --------------- | ------------------- | ------------------- | --------------- | --------- |
-| Bahexyma        | Lady of Corpses     | Arcana, Death       | Neutral Evil    |           |
-| Carbok          | Father of Murder    | Death, Trickery     | Chaotic Evil    |           |
-| Crassoñ         | Lord of Storms      | Nature, Tempest     | Chaotic Neutral |           |
-| Dakosh          | Lord of Destruction | Death, War          | Chaotic Evil    |           |
-| Færunda         | Mother of Invention | Knowledge, Forge    | Lawful Neutral  |           |
-| Great Mother    | All Maker           | Life, Light, Nature | Neutral         |           |
-| Green Man       | Lord of Forests     | Life, Nature        | Neutral         |           |
-| Heria           | Lady of the Hunt    | Nature, War         | Chaotic Good    |           |
-| Ishtak          | Lord of Domination  | Knowledge, War      | Lawful Evil     |           |
-| Jadow           | Lord of Earth       | Life, Nature        | Lawful Neutral  |           |
-| Kæla            | Lady of Deceit      | Death, Trickery     | Lawful Evil     |           |
-| Lorothai        | Lord of Light       | Life, Light         | Lawful Good     |           |
-| Niuthün         | Mother of Vitality  | Grave, Life         | Neutral Good    |           |
-| Ohm             | The Unknown         | Death, Life, Nature | Neutral         |           |
-| Orthalius       | Father of Magick    | Arcana, Knowledge   | Lawful Neutral  |           |
-| Pareesha        | All Lover           | Life, Light         | Chaotic Good    |           |
-| Rælion          | Lord of Battle      | Forge, War          | Lawful Good     |           |
-| Shæroom         | Lady of the Waves   | Nature, Tempest     | Neutral Evil    |           |
-| Ta’harba Saleen | Roamer of Deserts   | Nature, Tempest     | Neutral         |           |
-| Talia           | Lady of Laughters   | Knowledge, Trickery | Chaotic Good    |           |
-| Zarron          | Lord of Flames      | Light, War          | Chaotic Neutral |           |
+| Name            | Title               | Domains             | Alignment       |
+| --------------- | ------------------- | ------------------- | --------------- |
+| Bahexyma        | Lady of Corpses     | Arcana, Death       | Neutral Evil    |
+| Carbok          | Father of Murder    | Death, Trickery     | Chaotic Evil    |
+| Crassoñ         | Lord of Storms      | Nature, Tempest     | Chaotic Neutral |
+| Dakosh          | Lord of Destruction | Death, War          | Chaotic Evil    |
+| Færunda         | Mother of Invention | Knowledge, Forge    | Lawful Neutral  |
+| Great Mother    | All Maker           | Life, Light, Nature | Neutral         |
+| Green Man       | Lord of Forests     | Life, Nature        | Neutral         |
+| Heria           | Lady of the Hunt    | Nature, War         | Chaotic Good    |
+| Ishtak          | Lord of Domination  | Knowledge, War      | Lawful Evil     |
+| Jadow           | Lord of Earth       | Life, Nature        | Lawful Neutral  |
+| Kæla            | Lady of Deceit      | Death, Trickery     | Lawful Evil     |
+| Lorothai        | Lord of Light       | Life, Light         | Lawful Good     |
+| Niuthün         | Mother of Vitality  | Grave, Life         | Neutral Good    |
+| Ohm             | The Unknown         | Death, Life, Nature | Neutral         |
+| Orthalius       | Father of Magick    | Arcana, Knowledge   | Lawful Neutral  |
+| Pareesha        | All Lover           | Life, Light         | Chaotic Good    |
+| Rælion          | Lord of Battle      | Forge, War          | Lawful Good     |
+| Shæroom         | Lady of the Waves   | Nature, Tempest     | Neutral Evil    |
+| Ta’harba Saleen | Roamer of Deserts   | Nature, Tempest     | Neutral         |
+| Talia           | Lady of Laughters   | Knowledge, Trickery | Chaotic Good    |
+| Zarron          | Lord of Flames      | Light, War          | Chaotic Neutral |
 
 ### Bahexyma
 

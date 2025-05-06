@@ -6,7 +6,7 @@ also with reference to the other Cultures and Places of Qor’thos.*
 *By Alathea Damrion, M.A. Kathrula, First Reader at St. Bamber’s, Temple of
 Orthalius, Waverest*
 
-*Published by Kathrula University Press, 1430AD*
+*Published by Kathrula University Press, 9970AD*
 
 ## Qor’thos
 
@@ -45,7 +45,7 @@ interference, as we know it now.
 
 The exact layout of the world is known thanks to the Great Cartographic
 Expedition undertaken by Kathrula University in association with Vünderax, the
-dragon ruler of Pa’rakhan in 1386AD. Aided by the flight of Vünderax, scholars
+dragon ruler of Pa’rakhan in 9386AD. Aided by the flight of Vünderax, scholars
 upon his back were able to see and record accurately the shape of Qor’thos. The
 distribution of races across the world and its natural history is still largely
 mysterious, due to the secretive nature of nations like Bay-Tsao, the ill-omens
@@ -76,13 +76,13 @@ first.
 The lands we know as the Confederacy were once a collection of disparate
 cultures and kingdoms, some warring amongst themselves, others living in
 secluded communities, or playing multiple sides of a war to their own profit.
-This state of affairs carried on until 704AD, when an evil emerged that posed a
+This state of affairs carried on until 6704AD, when an evil emerged that posed a
 calamitous threat to all the nations of the Scar: Zilrikax, an Illithid of the
 Underdark who had achieved lichdom, arose from the deeps to spread terror and
 death across the world.
 
 His armies of demons and the undead swept throughout the lands of the Scar,
-starting with the Chondothi Plains. In 712AD Zilrikax decimated the land,
+starting with the Chondothi Plains. In 6712AD Zilrikax decimated the land,
 leaving what were once verdant grasslands as twisted desert. This forced out the
 Halflings who had traditionally roamed the plains southwest. The orcish and
 goblinoid races that had also claimed the plains were ensorcelled by Zilrikax’s
@@ -108,7 +108,7 @@ staggering defeats. During this time the Dagmari Empire allied itself with the
 Confederacy, though offering only men and aid while refusing to give up its
 sovereignty by joining the fledgling Confederacy.
 
-In 766AD, Zilrikax was cornered at Silver Tears Falls in the northlands between
+In 6766AD, Zilrikax was cornered at Silver Tears Falls in the northlands between
 Kathrula and Griselden. Through a ritual performed by Astratis, a priest of
 Lorothai who served the Children of the Scar, the Illithid was banished
 forevermore from Qor’thos, being set adrift in the nether regions of the Far
@@ -124,7 +124,7 @@ the various nations during the war with Zilrikax proved too deep to undo. More
 cynical scholars, however, point out that the socio-economic benefits of
 confederation were too great to simply shred up the Accord. Whatever the cause,
 the Confederacy became a nation formed of conglomeration, officially recognised
-as joining the world stage in 781AD with the declaration of Griselden as the
+as joining the world stage in 6781AD with the declaration of Griselden as the
 Confederate capital.
 
 ### Statutes

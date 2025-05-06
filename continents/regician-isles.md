@@ -4,7 +4,7 @@
 
 *Written by Sir Gawain Pendragon, Knight of the Chalice Order and Royal Historian to His Majesty King Uther Regicia IV*
 
-*Published by Kathrula University Press, 1436 AD*
+*Published by Kathrula University Press, 9978AD*
 
 ## INTRODUCTION
 
@@ -70,7 +70,7 @@ These and countless other local customs create a kingdom where travelers may cro
 
 The foundation of Regician society rests upon a strictly defined social hierarchy that assigns each individual a specific position within an interlocking system of rights, obligations, and responsibilities. Unlike the more fluid social structures found in the Confederacy or the merit-based advancement possible in Dagmar, Regician social position derives primarily from birth circumstances, with limited mobility possible through exceptional service, royal decree, or occasionally marriage into higher strata.
 
-At the apex stands the High King of Regicia, whose authority derives from divine sanction (historically direct from the Avar before the Deracination, now maintained through church blessing), ancestral right, and the oaths of fealty sworn by all noble houses. The current monarch, His Majesty Uther Regicia IV, represents the fourteenth generation of the Regician dynasty, which unified the archipelago under a single crown in 892 AD, ending centuries of inter-island warfare and establishing the governance system that continues today.
+At the apex stands the High King of Regicia, whose authority derives from divine sanction (historically direct from the Avar before the Deracination, now maintained through church blessing), ancestral right, and the oaths of fealty sworn by all noble houses. The current monarch, His Majesty Uther Regicia IV, represents the fourteenth generation of the Regician dynasty, which unified the archipelago under a single crown in 9892AD, ending centuries of inter-island warfare and establishing the governance system that continues today.
 
 Below the sovereign exist four distinct noble tiers, each with clearly defined roles within the kingdom:
 

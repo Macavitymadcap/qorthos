@@ -6,7 +6,7 @@ paid to the Church of Light as practiced within the Confederacy.*
 *By Father Cadias Sarongal, P.h. Div. Kathrula, High Priest of the Cathedral of
 Light, Lepia*
 
-*Published by Kathrula University Press, 1432AD*
+*Published by Kathrula University Press, 9983AD*
 
 ## Origin of the Deities
 
@@ -64,8 +64,8 @@ their lives as if they were never part of our world to begin with. Despite
 priests and clerics of all faiths trying their hardest to encourage devotion in
 the masses, throughout Qor’thos religion dwindled. Churches were abandoned and
 some even cast their eyes to the Dævar to fill the supernatural void in their
-lives. Then, in 235 AD the first of the avatars appeared when Lumeros the
-servant of Lorothai burst into his lord’s temple in Lepia as a searing stream of
+lives. Then, in 1209AD the first of the avatars appeared when Lumeros the 
+servant of Lorothai burst into his lord's temple in Lepia as a searing stream of 
 light, instructing mortals to keep the faith.
 
 The Avar had been busying themselves, outfitting their respective cells as they
@@ -146,13 +146,14 @@ Little mention has been made of the God-Emperor of Bay-Tsao, for a few good
 reasons. While scholars in the Confederacy and it’s neighbours have heard
 stories of religious practices within the Eternal Empire for over a thousand
 years, precise information about their deity is hard to obtain as the Imperial
-Palace prides itself on its secrecy. Ambassadors from Bay-Tsao on their few
-visits outside their lands tell all they come across that the God-Emperor was a
-man who in 193AD ascended to godhood by defeating the Dævar who cruelly ruled
-the land. Upon slaying them, he took on aspects of their divine power, and so
-became a God amongst men. Some, however, question whether the God-Emperor is
-divine at all, and instead nothing but an elaborate hoax propagated by the
-Chibo-Mei dynasty, to keep their family on the Jade Throne in perpetuity.
+Palace prides itself on its secrecy. Ambassadors from Bay-Tsao on their few 
+visits outside their lands tell all they come across that the God-Emperor was 
+a man who in 1067AD ascended to godhood by defeating the Dævar who cruelly 
+ruled the land. Upon slaying them, he took on aspects of their divine power, 
+and so became a God amongst men. Some, however, question whether the 
+God-Emperor is divine at all, and instead nothing but an elaborate hoax 
+propagated by the Chibo-Mei dynasty, to keep their family on the Jade Throne 
+in perpetuity.
 
 What may cause more alarm than what is left out of this work is perhaps what I
 have decided to include. The Great Mother and Ohm, while perhaps not technically
@@ -341,7 +342,7 @@ genders. They delighted in matchmaking between mortals, trying to find a fit for
 each being where they could, or in the very least bringing their desires to
 fruition. When the war came they sided with the Light, seeing the Darkness as
 the antithesis of love. They are worshipped by artists, prostitutes, and also
-many elves, whose patron god Corellon Larethian is similarly hermaphroditic..
+many elves, whose patron god Corellon Larethian is similarly hermaphroditic.
 Their avatars are common, coming in the form of humanoids of insurmountable
 beauty and indeterminate sex. Pareesha’s genderless nature is accepted by the
 Confederate and Dagmari churches, though in Regicia they are worshipped as a

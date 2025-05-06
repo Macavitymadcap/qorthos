@@ -4,7 +4,7 @@
 
 *Written by Thorgar Frostbeard, Master Historian of Åknorg and Emissary to the Confederacy*
 
-*Published by Kathrula University Press, 1435 AD*
+*Published by Kathrula University Press, 9980AD*
 
 ## INTRODUCTION
 
@@ -340,4 +340,4 @@ While Skün will undoubtedly maintain its characteristic selective engagement wi
 
 ---
 
-*About the Author: Thorgar Frostbeard serves as Master Historian of Åknorg and head of the diplomatic mission to the Confederacy. His three-century career spans extensive exploration of Skün's uncharted regions, participation in seventeen polar expeditions, and negotiations with representatives from every major global power. This guide represents his first work specifically created for non-dwarven audiences, drawing upon the comprehensive fifteen-volume "Chronicle of Ice and Stone" he compiled for internal clan education.*
+*About the Author: Thorgar Frostbeard serves as Master Historian of Åknorg and head of the diplomatic mission to the Confederacy. His three-millennium career spans extensive exploration of Skün's uncharted regions, participation in seventeen polar expeditions, and negotiations with representatives from every major global power. This guide represents his first work specifically created for non-dwarven audiences, drawing upon the comprehensive fifteen-volume "Chronicle of Ice and Stone" he compiled for internal clan education.*

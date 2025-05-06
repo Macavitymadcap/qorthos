@@ -1,6 +1,6 @@
 # A SHORT INTRODUCTION TO THEOLOGY
 
-*Being an Outline of the Major Deities of Qor’thos, with Particular Attention
+*Being an Outline of the Major Deities of Qor'thos, with Particular Attention
 paid to the Church of Light as practiced within the Confederacy.*
 
 *By Father Cadias Sarongal, P.h. Div. Kathrula, High Priest of the Cathedral of
@@ -62,14 +62,14 @@ Avar to communicate their will, mortals carried on with their lives. Some tried
 to remember how the Gods had instructed them to live and others carried on with
 their lives as if they were never part of our world to begin with. Despite
 priests and clerics of all faiths trying their hardest to encourage devotion in
-the masses, throughout Qor’thos religion dwindled. Churches were abandoned and
+the masses, throughout Qor'thos religion dwindled. Churches were abandoned and
 some even cast their eyes to the Dævar to fill the supernatural void in their
 lives. Then, in 1209AD the first of the avatars appeared when Lumeros the 
 servant of Lorothai burst into his lord's temple in Lepia as a searing stream of 
 light, instructing mortals to keep the faith.
 
 The Avar had been busying themselves, outfitting their respective cells as they
-saw fit, and eventually they stumbled upon a loophole in Ohm’s punishment.
+saw fit, and eventually they stumbled upon a loophole in Ohm's punishment.
 Though they themselves could not leave their realms, beings they created could,
 and so they made avatars of themselves to make their will known in the world out
 of which they had been cast. The Avatars of the Light instituted the practice of
@@ -87,7 +87,7 @@ and separate followers. The War changed the competitive nature of the Gods, and
 the Avar of the Light decided to band together, so that now their churches are
 combined under one banner, and thus the Church of Light was born.
 
-Where the Church’s message took hold most of the old temples to individual gods
+Where the Church's message took hold most of the old temples to individual gods
 were converted into polytheistic churches, but as the Confederacy was born it
 was decreed that these could now serve municipal functions throughout the
 Aligned States. For example, the temples of Niuthün serve as hospitals, churches
@@ -96,7 +96,7 @@ brothels. Some choose to hold one deity higher than the others, but all the Avar
 of the Light are held in equal admiration by those who embrace the light. The
 Cathedral of The Light in Lepia, while once dedicated solely to Lorathai, now
 serves as the central administration for the worship of the Avar of the Light
-across Qor’thos, though the D’jambarosha in the Dagmari capital of Salesh is
+across Qor'thos, though the D'jambarosha in the Dagmari capital of Salesh is
 also considered a sacred site to followers of the Light.
 
 Despite the banished Avar sending their avatars into the material plane to
@@ -106,7 +106,7 @@ of religion, albeit one based upon a rejection of the Gods. The Path of the
 Abandoned preach self-actualisation for all mortals in a world no longer
 impacted by deities, and to nurture the splendour of reality that the gods, and
 even the Great Mother before them, left it in idleness. The Path originated on
-the continent of Käs around 96AD, though it has now spread across Qor’thos to
+the continent of Käs around 96AD, though it has now spread across Qor'thos to
 differing degrees of welcome. In the Confederacy the Path of the Abandoned is
 tolerated and accepted, though their followers have been known to come to
 disagreements with the more theologically inclined. The Dagmari Empire expressly
@@ -129,21 +129,21 @@ today, and a brief description of each one. The Dævar, while having considerabl
 influence on the world, are too numerous to note here, and other works are much
 better suited to that task. Some omissions have been made, chiefly for editorial
 reasons as this work is meant as a brief introduction to the major gods that are
-celebrated throughout Qor’thos, and to include all the known Avar would make
+celebrated throughout Qor'thos, and to include all the known Avar would make
 this a hefty tome rather than a light pamphlet. The Gods of the various races
 have not been included, as many races have not just one god, but entire
 pantheons of their own, the ever expanding list of bizarre entities worshipped
 by Kuo-toa being perhaps the strangest and most extreme example.
 
 Though founded in the Confederacy, the Church of Light has spread across
-Qor’thos, albeit with minor differences due to local flavour. For example, in
-Dagmar, Tar’haba Saleen is part of the Church of Light’s pantheon, despite the
+Qor'thos, albeit with minor differences due to local flavour. For example, in
+Dagmar, Tar'haba Saleen is part of the Church of Light's pantheon, despite the
 fact that he elected out of the War of the Gods. The Roamer of Deserts called
 the dunes of Dagmar home before the Deracination, and his deep ties to the
 region is reflected by the clergy of the Empire including him in their worship.
 
 Little mention has been made of the God-Emperor of Bay-Tsao, for a few good
-reasons. While scholars in the Confederacy and it’s neighbours have heard
+reasons. While scholars in the Confederacy and it's neighbours have heard
 stories of religious practices within the Eternal Empire for over a thousand
 years, precise information about their deity is hard to obtain as the Imperial
 Palace prides itself on its secrecy. Ambassadors from Bay-Tsao on their few 
@@ -186,7 +186,7 @@ be illuminated.
 | Pareesha        | All Lover           | Life, Light         | Chaotic Good    |
 | Rælion          | Lord of Battle      | Forge, War          | Lawful Good     |
 | Shæroom         | Lady of the Waves   | Nature, Tempest     | Neutral Evil    |
-| Ta’harba Saleen | Roamer of Deserts   | Nature, Tempest     | Neutral         |
+| Ta'harba Saleen | Roamer of Deserts   | Nature, Tempest     | Neutral         |
 | Talia           | Lady of Laughters   | Knowledge, Trickery | Chaotic Good    |
 | Zarron          | Lord of Flames      | Light, War          | Chaotic Neutral |
 
@@ -213,11 +213,11 @@ of hulking brutes with murder in their eyes.
 
 ### Crasooñ
 
-The Lord of Storms blew across the surface of Qor’thos and created the first
+The Lord of Storms blew across the surface of Qor'thos and created the first
 winds, in turn piquing the interest of his sister Shæroom who responded with the
 first waves. It is said that when the seas writhe in turmoil it is both ocean
 and air reliving the battles had by the siblings. Though chaotic in nature,
-Crasooñ sided with Avar of Light in the war, some suggest merely so he wasn’t on
+Crasooñ sided with Avar of Light in the war, some suggest merely so he wasn't on
 the same side as his sister. He is venerated by the crews of airships and those
 who journey through the sky. His avatars are rare, and appear as faintly
 humanoid clouds.
@@ -265,7 +265,7 @@ humanoids, with skin made of bark and eyes of moss.
 
 When Solevius fell, the Lady of the Hunt picked up her bow and helped Lorothai
 track down Carbok to exact justice. She watches over both predator and prey, as
-the hunt helps sustain all life, regardless of one’s role in it. She is
+the hunt helps sustain all life, regardless of one's role in it. She is
 worshipped by hunters, rangers, barbarians and those who love the thrill of the
 chase. Her avatars are common, and come in the guise of sleek humanoids armed
 with bows of golden yew.
@@ -284,7 +284,7 @@ swayed as beautiful humanoids with cruel smiles.
 Before the war the Lord of Earth was rarely seen, spending most of his time
 beneath the ground, admiring it in all its geological wonder. When the fighting
 began he sensed the threat to his pride and joy and joined the Avar of Light,
-commanding the mountains and hills across Qor’thos to rise as a misdirect and
+commanding the mountains and hills across Qor'thos to rise as a misdirect and
 blockade to the forces of Darkness. He is praised by farmers, miners and many
 dwarfs, as Jadow is a brother to their chief god Moradin. His avatars are
 common, and appear to be made of the earth itself with glittering gemstone eyes.
@@ -300,11 +300,11 @@ avatars is hard to gauge, as due to her very nature they appear in many guises.
 
 ### Lorothai
 
-The Lord of Light was the second of the Great Mother’s children, entering this
+The Lord of Light was the second of the Great Mother's children, entering this
 world just after Solevius and mere seconds before his twin Carbok. Upon his
 arrival he decided to illuminate the world so that his siblings could better see
 its wonders. He is the Champion of Light, and declared he would spread it across
-Qor’thos and its associated planes to combat the Darkness when the war began. He
+Qor'thos and its associated planes to combat the Darkness when the war began. He
 is venerated by many peoples, and his avatars appear as angelic humanoids aglow
 with radiant energy.
 
@@ -344,7 +344,7 @@ fruition. When the war came they sided with the Light, seeing the Darkness as
 the antithesis of love. They are worshipped by artists, prostitutes, and also
 many elves, whose patron god Corellon Larethian is similarly hermaphroditic.
 Their avatars are common, coming in the form of humanoids of insurmountable
-beauty and indeterminate sex. Pareesha’s genderless nature is accepted by the
+beauty and indeterminate sex. Pareesha's genderless nature is accepted by the
 Confederate and Dagmari churches, though in Regicia they are worshipped as a
 female, as homosexuality and gender disconformity are severe offenses within the
 isles.
@@ -362,7 +362,7 @@ common and appear as fierce humanoids in gleaming angelic plate armour.
 Early in her life the Lady of the Waves used her power to drown Lamara, a
 princes of the Seelie Court, when a mortal man dared to name her the most
 beautiful of all beings and not Shæroom. It is speculated that it was this that
-prompted her brother Crasooñ to blow the first winds across Qor’thos, therefore
+prompted her brother Crasooñ to blow the first winds across Qor'thos, therefore
 sparking their rivalry, but no evidence exists to corroborate this claim. In the
 war she sided with the Darkness, bringing to a watery demise anyone who apposed
 her. She is revered by sailors, fishermen, and all those who take to the ocean.
@@ -371,7 +371,7 @@ world, as all, whether for good or ill, must make use of her domain. Her avatars
 are common on the coasts and in the watery deeps of the world, appearing as
 humanoids resembling fish in subtle ways.
 
-### Ta’harba Saleen
+### Ta'harba Saleen
 
 The Roamer of Deserts chose no side in the War of The Avar, instead merely
 continuing with what he had done since the Great Mother bore him: wandering and
@@ -397,6 +397,6 @@ identified by their unearthly voices.
 The Lord of Flame bathed in the primordial fires and soaked up their heat to
 share with all, whether they wanted to be lit or not. He fought bitterly with
 Jadow and in the process created the volcanoes that rage in the waters off the
-coast of Pa’rakhan During the war he sided with the Darkness, raining hellfire
+coast of Pa'rakhan During the war he sided with the Darkness, raining hellfire
 upon the forces of Light. Pyromaniacs of all varieties hold him in adoration.
 His avatars are few, and they appear as humanoids lit by an eerie fire.

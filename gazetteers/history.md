@@ -1,13 +1,13 @@
 # A SHORT INTRODUCTION TO HISTORY
 
-_Being an Account of the Major Events that have Shaped Qor'thos from Ancient
+*Being an Account of the Major Events that have Shaped Qor'thos from Ancient
 Times to the Present Day, with Particular Attention to the Rise of the
-Confederacy and the Relations Between Nations._
+Confederacy and the Relations Between Nations.*
 
-_By Thaddeus Grimstone, Ph.D. History, Kathrula University, Royal Historian to
-the Confederate Council_
+*By Thaddeus Grimstone, Ph.D. History, Kathrula University, Royal Historian to
+the Confederate Council*
 
-_Published by Kathrula University Press, 9976AD_
+*Published by Kathrula University Press, 9983AD*
 
 ## THE PRIMORDIAL AGE
 
